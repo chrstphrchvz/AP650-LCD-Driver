@@ -1,7 +1,7 @@
 # AP650-LCD-Driver
 Driver for LCD screen using an AP650 LCD Controller.  Utilizes I2C for communication.
 
-Controller Datasheet: http://www.valencetech.com/doc/AP650/DS_AP650-Rev1.2.01.pdf
+Controller Datasheet: http://datasheet.datasheetarchive.com/originals/crawler/valencetech.com/b84e606aea7710c4f3adf15244ad035e.pdf
 
 Step 1: ./lcd_setup.sh
 
